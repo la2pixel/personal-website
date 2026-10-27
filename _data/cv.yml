@@ -1,6 +1,6 @@
 cv:
   name: Lalitha Sivakumar
-  label: Research Engineer, Haptic Intelligence Lab
+  label: Research Engineer, Haptic Intelligence Department
   email: lalitha.sivakumar2000@gmail.com
   location: Stuttgart, Germany
   image: ""
@@ -30,7 +30,7 @@ cv:
 
     Experience:
       - company: Max Planck Institute for Intelligent Systems
-        position: Research Engineer, Haptic Intelligence Lab
+        position: Research Engineer, Haptic Intelligence Department
         location: Stuttgart, Germany
         start_date: 2026-10
         end_date: present
@@ -39,7 +39,7 @@ cv:
           - 'Working on submitting the project titled "How it feels to walk in heels goes beyond what gait reveals"'
 
       - company: Max Planck Institute for Intelligent Systems
-        position: Research Assistant, Haptic Intelligence Lab
+        position: Research Assistant, Haptic Intelligence Department
         location: Stuttgart, Germany
         start_date: 2025-11
         end_date: 2026-09

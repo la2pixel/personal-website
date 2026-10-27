@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Engineer, Haptic Intelligence Lab, Max Planck Institute for Intelligent Systems
+subtitle: Research Engineer, Haptic Intelligence Department, Max Planck Institute for Intelligent Systems
 
 profile:
   align: right
@@ -25,8 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Engineer in the [Haptic Intelligence Lab](https://hi.is.mpg.de/) at the Max Planck Institute for Intelligent Systems in Stuttgart, Germany, where I work with Dr. Vani Sundaram and Dr. Katherine Kuchenbecker. My research sits at the intersection of biomechanics, haptics, and machine learning, with a focus on understanding and modeling human movement from multimodal sensor data (EMG, kinematics, kinetics) and building computational models of gait and locomotion.
+I'm a Research Engineer at the Max Planck Institute for Intelligent Systems in Stuttgart, working with Dr. Vani Sundaram and Dr. Katherine Kuchenbecker in the Haptic Intelligence Department.
 
-I am completing an MSc in Quantitative Data Science Methods (specializing in Machine Learning) at the University of Tübingen, with a master's thesis on learning humanoid locomotion from EMG-based latent action priors and muscle synergies, conducted at the Computational Biophysics and Biorobotics Lab in Stuttgart. Previously, I worked on large language models for psychometric item generation at the Human Aspects of Machine Learning Lab (MPI-IS Tübingen), and on multilevel models of driver control behavior in automated driving at Robert Bosch GmbH.
+Most of my work has been about learning something about a person from the signals their body and behaviour produce. At MPI-IS, I study how walking in heels feels, using EMG, motion capture, force plates, and foot-contact imaging. In my MSc thesis at the University of Tübingen, with the Computational Biophysics and Biorobotics Lab in Stuttgart, I used muscle synergies from human EMG as action priors for musculoskeletal reinforcement learning. At Bosch, I studied pupil diameter as a marker of driver state during automated-driving takeovers (ACM AutoUI 2024). At MPI-IS Tübingen, I worked with language, generating personality test items with LLMs and learning embeddings that classify them by trait. I also work on observational studies with large-scale health records.
 
-<!-- TODO: add a one-line pointer to your target labs/programs if useful, e.g. "I am applying to PhD programs in ...". -->
+My research interests lie in multimodal models that integrate physiological signals, human behaviour, and context. Today's foundation models mostly see people from the outside, through video, motion, and language, and still struggle to reason over physiological time series. I'm interested in closing that gap with multimodal biosignal models and world models, and in applying them to healthcare, wearable sensing, and human–robot interaction.
+
+I'm looking for PhD positions starting in 2027.
